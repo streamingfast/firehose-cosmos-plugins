@@ -1,1 +1,1 @@
-# firehose-cosmos-plugins
+# firehose-injective
